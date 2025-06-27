@@ -2,8 +2,6 @@
 
 A professional, AI-powered email generation tool that helps non-native English speakers convert fragmented, informal, or incomplete prompts into clear, concise, and well-structured emails using Google's Gemini (`gemini-1.5-flash`) via LangChain.
 
----
-
 ## 📌 Project Overview
 
 Many users struggle to write professional emails due to language limitations, unclear grammar, or lack of structure. This tool bridges that gap by:
@@ -11,7 +9,6 @@ Many users struggle to write professional emails due to language limitations, un
 - Interpreting short or broken English prompts
 - Inferring missing context or details
 - Generating a polished, formal email with a subject line
----
 
 ## 💡 Ideation Process
 
@@ -28,7 +25,6 @@ Build a lightweight, agent-style LLM system that:
 3. Generates full emails with proper structure, tone, and grammar
 4. Handles missing info with polite assumptions
 
----
 ## 🗂️ Project Structure
 
 ### 📄 `main.py`
