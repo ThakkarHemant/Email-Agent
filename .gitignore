@@ -1,8 +1,5 @@
-# Ignore Python cache and compiled files
+# Ignore Python cache
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
 
 # Ignore virtual environments
 .venv/
@@ -12,13 +9,3 @@ venv/
 # Ignore dotenv credentials
 .env
 
-# Ignore OS-specific files
-.DS_Store
-Thumbs.db
-
-# Ignore Jupyter and notebook checkpoints (if any)
-.ipynb_checkpoints/
-
-# Ignore logs and temporary files
-*.log
-*.tmp
